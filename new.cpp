@@ -1,8 +1,10 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
 class Hello{
-    
+    int id;
+    string name;
 };
 
 int main(){
